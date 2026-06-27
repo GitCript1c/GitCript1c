@@ -1,12 +1,14 @@
-# Hi, I'm **Muhammad Omer** 👋
+<h1 align="center">Hi, I'm Muhammad Omer 👋</h1>
 
-**Software Engineer | AI/ML & Full‑Stack Development**
+<h3 align="center">Full-Stack Developer | Software Engineering Student @ Bahria University, Islamabad</h3>
 
-Building real-world systems — from event-driven backends and async APIs to live React dashboards.
+<p align="center">Building real-world systems — from event-driven backends and async APIs to live React dashboards.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-omer-1547103ba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/GitCript1c)
-[![Profile Views](https://komarev.com/ghpvc/?username=GitCript1c&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/GitCript1c)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-omer-1547103ba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/GitCript1c"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=GitCript1c&label=Profile+Views&color=0e75b6&style=flat-square"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
@@ -16,12 +18,12 @@ Building real-world systems — from event-driven backends and async APIs to liv
 
 ## 🧐 About Me
 
-- 2nd Year **Software Engineering** student at **Bahria University, H-11 Islamabad**
--  I build full-stack systems with clean architecture and real-world usability
--  Comfortable across the whole stack — backend APIs, async systems, databases & React UIs
--  Passionate about **Software Design Patterns** and **Event-Driven Architecture**
--  Currently exploring **Machine Learning** and **distributed systems**
--  Open to collaboration on full-stack, backend, or AI-integrated projects
+- 🎓 2nd Year **Software Engineering** student at **Bahria University, H-11 Islamabad**
+- 🔨 I build full-stack systems with clean architecture and real-world usability
+- ⚡ Comfortable across the whole stack — backend APIs, async systems, databases & React UIs
+- 🧠 Passionate about **Software Design Patterns** and **Event-Driven Architecture**
+- 🌱 Currently exploring **Machine Learning** and **distributed systems**
+- 🤝 Open to collaboration on full-stack, backend, or AI-integrated projects
 
 ---
 
@@ -35,40 +37,21 @@ Building real-world systems — from event-driven backends and async APIs to liv
 
 ## 🧰 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,java,html,css&theme=dark" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,fastapi&theme=dark" />
+</p>
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sklearn&theme=dark" />
+</p>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### AI / ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,github&theme=dark" />
+</p>
 
 ---
 
@@ -95,13 +78,16 @@ Building real-world systems — from event-driven backends and async APIs to liv
   <img src="https://raw.githubusercontent.com/GitCript1c/GitCript1c/output/github-snake-dark.svg" alt="snake" />
 </p>
 
-
 ---
 
 ## 🔁 The Dev Cycle
 
-😵‍💫 It's broken &nbsp;→&nbsp; 😮‍💨 It works! &nbsp;→&nbsp; 😳 No idea how...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80" />
+</p>
 
----
-
-*"First, solve the problem. Then, write the code."*
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
