@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Omer 👋</h1>
 
-<h3 align="center">Full-Stack Developer | Software Engineering Student @ Bahria University, Islamabad</h3>
+<h3 align="center">Software Engineer | AI/ML & Full‑Stack Development</h3>
 
 <p align="center">Building real-world systems — from event-driven backends and async APIs to live React dashboards.</p>
 
