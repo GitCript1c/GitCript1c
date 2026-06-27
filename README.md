@@ -1,6 +1,6 @@
 # Hi, I'm **Muhammad Omer** 👋
 
-**Full-Stack Developer | Software Engineering Student @ Bahria University, Islamabad**
+**Software Engineer | AI/ML & Full‑Stack Development**
 
 Building real-world systems — from event-driven backends and async APIs to live React dashboards.
 
@@ -16,12 +16,12 @@ Building real-world systems — from event-driven backends and async APIs to liv
 
 ## 🧐 About Me
 
-- 🎓 2nd Year **Software Engineering** student at **Bahria University, H-11 Islamabad**
-- 🔨 I build full-stack systems with clean architecture and real-world usability
-- ⚡ Comfortable across the whole stack — backend APIs, async systems, databases & React UIs
-- 🧠 Passionate about **Software Design Patterns** and **Event-Driven Architecture**
-- 🌱 Currently exploring **Machine Learning** and **distributed systems**
-- 🤝 Open to collaboration on full-stack, backend, or AI-integrated projects
+- 2nd Year **Software Engineering** student at **Bahria University, H-11 Islamabad**
+-  I build full-stack systems with clean architecture and real-world usability
+-  Comfortable across the whole stack — backend APIs, async systems, databases & React UIs
+-  Passionate about **Software Design Patterns** and **Event-Driven Architecture**
+-  Currently exploring **Machine Learning** and **distributed systems**
+-  Open to collaboration on full-stack, backend, or AI-integrated projects
 
 ---
 
@@ -95,7 +95,6 @@ Building real-world systems — from event-driven backends and async APIs to liv
   <img src="https://raw.githubusercontent.com/GitCript1c/GitCript1c/output/github-snake-dark.svg" alt="snake" />
 </p>
 
-> ⚙️ **To activate the snake:** Go to your `GitCript1c` repo → **Actions** tab → find **"Generate Snake"** → click **"Run workflow"**. After ~1 min the snake will appear here automatically every day.
 
 ---
 
