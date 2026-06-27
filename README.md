@@ -8,7 +8,9 @@ Building real-world systems — from event-driven backends and async APIs to liv
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/GitCript1c)
 [![Profile Views](https://komarev.com/ghpvc/?username=GitCript1c&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/GitCript1c)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</p>
 
 ---
 
@@ -89,14 +91,18 @@ Building real-world systems — from event-driven backends and async APIs to liv
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/GitCript1c/GitCript1c/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GitCript1c/GitCript1c/output/github-snake-dark.svg" alt="snake" />
+</p>
+
+> ⚙️ **To activate the snake:** Go to your `GitCript1c` repo → **Actions** tab → find **"Generate Snake"** → click **"Run workflow"**. After ~1 min the snake will appear here automatically every day.
 
 ---
 
 ## 🔁 The Dev Cycle
 
-[![Broken](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png)](https://github.com/GitCript1c) &nbsp;&nbsp;
-[![Working](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png)](https://github.com/GitCript1c) &nbsp;&nbsp;
-[![No idea how](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png)](https://github.com/GitCript1c)
+😵‍💫 It's broken &nbsp;→&nbsp; 😮‍💨 It works! &nbsp;→&nbsp; 😳 No idea how...
+
+---
 
 *"First, solve the problem. Then, write the code."*
